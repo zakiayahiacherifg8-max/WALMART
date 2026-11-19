@@ -33,7 +33,7 @@ Trois modèles de régression linéaire sont comparés : **OLS** (référence), 
 | **Utilisateurs** | Équipes marketing et opérationnelles (planification, stocks, actions commerciales) |
 | **Décision attendue** | Identifier les facteurs les plus associés aux ventes et connaître les limites de la prévision |
 
-Questions posées dans le notebook :
+Questions posées :
 1. Quelles variables influencent les ventes ?
 2. Peut-on prédire les ventes avec précision ?
 3. Quel modèle est le plus robuste et généralisable ?
@@ -42,7 +42,7 @@ Questions posées dans le notebook :
 
 ## 📂 Données
 
-Jeu de données `Walmart_Store_sales.csv` : **150 observations brutes**, 8 variables (issu d'une compétition Kaggle, modifié pour l'exercice).
+Jeu de données `Walmart_Store_sales.csv` : **150 observations brutes**, 8 variables (issu d'une compétition Kaggle, modifié par Jedha pour l'exercice).
 
 | Variable | Description |
 |---|---|
